@@ -1,7 +1,7 @@
 <?php
 
 // Conexão com o banco de dados
-$servername = 'laradock_mysql_1';
+$servername = 'laradock-mysql-1';
 $username = 'root';
 $password = 'root';
 $db_name = 'crud';
